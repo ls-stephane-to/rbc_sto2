@@ -1,0 +1,19 @@
+{
+  "name": "rbc_sto2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ls-stephane-to/rbc_sto2.git"
+  },
+  "author": "sto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ls-stephane-to/rbc_sto2/issues"
+  },
+  "homepage": "https://github.com/ls-stephane-to/rbc_sto2#readme"
+}
